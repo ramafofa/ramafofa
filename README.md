@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames and sea animals
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on anything
-- ⚡ Fun fact: my favorite food is burritos
+
 
 <!---
 ramafofa/ramafofa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
