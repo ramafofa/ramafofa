@@ -1,6 +1,6 @@
 # 🦈 Olá, meu nome é Ramaianne, mas pode chamar de Rama! 
 
-Sou mãe, estudante de programação (recentemente aprovada em Computação na UFF), apaixonada por videogame, terror, biologia marinha e pela estética gótica. Estou trilhando minha jornada para me tornar desenvolvedora, focando no back-end, mas com muito carinho por tudo que envolve tecnologia!
+Sou mãe, faço faculdade de Tecnologia de Sistemas em Computação na UFF, apaixonada por videogame, terror e biologia marinha. Estou trilhando minha jornada para me tornar desenvolvedora, focando no back-end, mas com muito carinho por tudo que envolve tecnologia!
 
 ---
 
