@@ -1,10 +1,11 @@
 # 🦈 Olá, meu nome é Ramaianne, mas pode chamar de Rama! 
 
-Sou mãe, faço faculdade de Tecnologia de Sistemas em Computação na UFF, apaixonada por videogame, terror e biologia marinha. Estou trilhando minha jornada para me tornar desenvolvedora, focando no back-end, mas com muito carinho por tudo que envolve tecnologia!
+Sou mãe, faço faculdade de Tecnologia de Sistemas em Computação na UFF, apaixonada por videogame, terror e biologia marinha. Estou na minha jornada pokémon para me tornar desenvolvedora, focando na área de dados (biologia computacional/ bioinformática). Atualmente faço parte da equipe da "OncoGuIA: Um assistente inteligente para democratizar as diretrizes
+oncológicas da SBOC", atuando na parte de desenvolvimento de IA.
 
 ---
 
-## 🐙 Skills (em desenvolvimento)
+## 🐙 Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
