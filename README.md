@@ -1,7 +1,6 @@
 # 🦈 Olá, meu nome é Ramaianne, mas pode chamar de Rama! 
 
-Sou mãe, faço faculdade de Tecnologia de Sistemas em Computação na UFF, apaixonada por videogame, terror e biologia marinha. Estou na minha jornada pokémon para me tornar desenvolvedora, focando na área de dados (biologia computacional/ bioinformática). Atualmente faço parte da equipe da "OncoGuIA: Um assistente inteligente para democratizar as diretrizes
-oncológicas da SBOC", atuando na parte de desenvolvimento de IA.
+Sou mãe, faço faculdade de Tecnologia de Sistemas em Computação na UFF, apaixonada por videogame, terror e biologia marinha. Estou na minha jornada para me tornar desenvolvedora, focando na área de dados (biologia computacional/ bioinformática).
 
 ---
 
