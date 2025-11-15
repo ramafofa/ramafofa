@@ -1,6 +1,6 @@
-# 🦈 Olá, meu nome é Ramaianne, mas pode chamar de Rama! 
+[# 🦈 Olá, meu nome é Ramaianne, mas pode chamar de Rama! 
 
-Sou mãe, faço faculdade de Tecnologia de Sistemas em Computação na UFF, apaixonada por videogame, terror e biologia marinha. Estou na minha jornada para me tornar desenvolvedora, focando na área de dados (biologia computacional/ bioinformática).
+https://www.youtube.com/watch?v=3q8WdhQO9bU
 
 ---
 
