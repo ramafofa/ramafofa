@@ -1,10 +1,9 @@
 [# 🦈 Olá, meu nome é Ramaianne, mas pode chamar de Rama! 
-
-https://www.youtube.com/watch?v=3q8WdhQO9bU
-
+Sou estudante de computação na UFF pelo consórcio CEDERJ (TSC)
+Gosto de biologia marinha e videogame 🐋
 ---
 
-## 🐙 Skills
+## 🐙 Skills (em desenvolvimento)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,19 +25,10 @@ https://www.youtube.com/watch?v=3q8WdhQO9bU
 
 ---
 
-## 🐋 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramafofa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ramafofa&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
-
-## 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramafofa)
-
----
+https://www.youtube.com/watch?v=3q8WdhQO9bU
 
 > *“A parte mais bonita do seu corpo é para onde ele está indo.”*  
 > — Ocean Vuong
