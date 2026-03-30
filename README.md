@@ -1,5 +1,5 @@
-[# 🦈 Olá, meu nome é Ramaianne, mas pode chamar de Rama! 
-Sou estudante de computação na UFF pelo consórcio CEDERJ (TSC)
+[ 🦈 Olá, meu nome é Ramaianne, mas pode chamar de Rama! 
+Sou estudante de computação na UFF.
 Gosto de biologia marinha e videogame 🐋
 ---
 
