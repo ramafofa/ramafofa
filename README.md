@@ -28,7 +28,6 @@ Gosto de biologia marinha e videogame 🐋
 
 
 ---
-https://www.youtube.com/watch?v=3q8WdhQO9bU
 
 > *“A parte mais bonita do seu corpo é para onde ele está indo.”*  
 > — Ocean Vuong
