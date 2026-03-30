@@ -1,4 +1,4 @@
-[ 🦈 Olá, meu nome é Ramaianne, mas pode chamar de Rama! 
+🦈 Olá, meu nome é Ramaianne, mas pode chamar de Rama! 
 Sou estudante de computação na UFF.
 Gosto de biologia marinha e videogame 🐋
 ---
